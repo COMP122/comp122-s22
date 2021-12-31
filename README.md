@@ -5,16 +5,16 @@ This repository provides you with material associated with COMP122.  During the 
 
 This README.md file provides you with an overview of this repository, as well as, a set of tasks to perform to get ready for this semester.
 
-## Contents of this repository include (but not limited to)
-  0. README.md and other standard repository files
+## Contents of this repository
+  1. README.md and other standard repository files
   1. Administrative Documents
      * Class Syllabus
      * Class Schedule
-  2. For each section of the course:
+  1. For each section of the course:
      * Lecture Notes
      * Lecture Slides
      * Supporting Files
-  3. A Deliverable directory for all of your assignments, quizzes, and exams.
+  1. A Deliverable directory for all of your assignments, quizzes, and exams.
 
 
 ## Key Information:
@@ -31,7 +31,6 @@ This README.md file provides you with an overview of this repository, as well as
   * Canonical Class Directory: \~/classes/comp122
   * Syllabus: \~/classes/comp122/syllabus.md
   * Assignments: \~/classes/comp122/deliverables/assignments.md
-
 
 ## Tasks (to be complete prior to the first day of class)
   1. Establish Accounts:

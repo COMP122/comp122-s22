@@ -63,7 +63,7 @@ This README.md file provides you with an overview of this repository, as well as
     1. Clone a copy of the mips repository:
         ```
         cd ~/classes/comp122
-        git clone https://github.com:COMP122/mips.git mips
+        git clone https://github.com:COMP122/mars-mips.git mars-mips
         ```
     1. Execute the following commands: 
        ```

@@ -60,12 +60,12 @@ This README.md file provides you with an overview of this repository, as well as
         cd ~/classes/comp122
         git clone https://github.com:COMP122/comp122-s22.git class-material
         ```
-     1. Clone a copy of the mips repository:
+     1. Clone a copy of the mars-mips repository:
         ```
         cd ~/classes/comp122
         git clone https://github.com:COMP122/mars-mips.git mars-mips
         ```
-     1. Execute the following commands: 
+     1. Reposition files to be better organized:
         ```
         cd ~/classes/comp122
         ln -s class-material/administrative/syllabus.md syllabus.md

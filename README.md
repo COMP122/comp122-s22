@@ -42,7 +42,7 @@ This README.md file provides you with an overview of this repository, as well as
      - https://slack.com  <br />   You also consider installing the mobile slack application on your personal digital lifeline, aka your smart-phone.
      - https://github.com <br /> 
           - I recommend that you configure your account to authenticate using SSH.
-          - Check out the [SSH Authentication Guide](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
+          - Check out the [SSH Authentication Guide](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
           - I'll have more to say about SSH in future lectures.
  
   1. Join the Slack COMP122 work space:

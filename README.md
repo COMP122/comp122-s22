@@ -38,7 +38,7 @@ This README.md file provides you with an overview of this repository, as well as
      - https://slack.com: The communication tool for this class is Slack. <br/> Use your @my.csun.edu address for your account.
      - https://github.com: All deliverables are submitted via GitHub Classrooms. <br/> Pick a professional account name.
 
-  1. Install Software: on your personnel computer
+  1. Install Software on your personnel computer:
      - https://www.sublimetext.com <br /> A recommended multiple purpose editor.
      - https://slack.com  <br />   You also consider installing the mobile slack application on your personal digital lifeline, aka your smart-phone.
      - https://github.com <br /> 
@@ -46,31 +46,33 @@ This README.md file provides you with an overview of this repository, as well as
           - Check out the [SSH Authentication Guide](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
           - I'll have more to say about SSH in future lectures.
  
-  1. Join the Slack COMP122 work space
+  1. Join the Slack COMP122 work space:
       - Accept the  invitation <br/> via https://join.slack.com/t/csun-comp-122/signup using your @my.csun.edu address.
       - Add the 'fitzgerald-f22' channel, this is where all online-discussions are held.
       - Respond to the 'Hello Class' via the 'reply to thread' option (do NOT "Also send to #fitzgerald-f22").
  
-  1. Setup your local comp122 environment
+  1. Setup your local comp122 environment:
      1. Create the canonical folder for the class: \~/classes/comp122 <br/>
         ```
         mkdir -p ~/classes/comp122
         ```
-     1. Clone a copy of this repository
+     1. Clone a copy of this repository:
         ```
         cd ~/classes/comp122
         git clone https://github.com:COMP122/comp122-s22.git class-material
         ```
-    1. Clone a copy of the mips repository
+    1. Clone a copy of the mips repository:
         ```
         cd ~/classes/comp122
         git clone https://github.com:COMP122/mips.git mips
         ```
-    1. Execute the following commands 
+    1. Execute the following commands: 
        ```
        cd ~/classes/comp122
        ln -s class-material/administrative/syllabus.md syllabus.md
        mkdir deliverables ; cd deliverables
        ln -s ../class-material/administrative/assignments.md assignments.md
        ```
+    1. Consider installing docker:
+       - https://www.docker.com
 

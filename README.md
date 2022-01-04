@@ -1,9 +1,11 @@
-# COMP122 Overview
+ # COMP122 Overview
 #### Version: Spring 2022
 
 This repository provides you with material associated with COMP122.  During the semester, the professor will be adding additional information to this repository. As such, you will need to regularly perform a PULL operation to obtain the most up-to-date information.
 
-This README.md file provides you with an overview of this repository, as well as, a set of tasks to perform to get ready for this semester.
+In addition to the class-material repository, you will also need to clone a number of other repositories.  Such repositories are associated with the MARS (MIPS Assembler and Runtime Simulator), as well as a repository for each of your deliverables (i.e., assignments).  All of these contents are placed within a specific file hierarchy for better organization. 
+
+This README.md file provides you with an overview of this structure, as well as, a set of tasks to perform to get ready for this semester.  Additionally information is located within the README.md file within the adminstrative folder.
 
 ## Contents of this repository
   1. README.md and other standard repository files
@@ -25,7 +27,7 @@ This README.md file provides you with an overview of this repository, as well as
     - Git: preinstall or https://gitforwindows.org
     - Java: preinstalled or https://www.java.com
   * Repositories
-    - COMP122: https://github.com/COMP122
+    - COMP122 Home: https://github.com/COMP122
     - class-material: https://github.com:COMP122/comp122-s22.git
     - mips: https://github.com:COMP122/mips.git
   * Canonical Class Directory: \~/classes/comp122
@@ -50,28 +52,34 @@ This README.md file provides you with an overview of this repository, as well as
      - Add the 'fitzgerald-f22' channel, this is where all online-discussions are held.
      - Respond to the 'Hello Class' via the 'reply to thread' option (do NOT "Also send to #fitzgerald-f22").
  
-  1. Setup your local comp122 environment:
-     1. Create the canonical folder for the class: \~/classes/comp122 <br/>
+  1. Setup your local comp122 environment: <br/>
+  Note that ``setup.bash`` can be used to automate the following steps. The file is locatined within the administrative folder: ``setup.bash``
+     1. Create the canonical folder for the class: \~/Desktop/classes/comp122 
         ```
-        mkdir -p ~/classes/comp122
+        mkdir -p ~/Desktop/classes/comp122
         ```
      1. Clone a copy of this repository:
         ```
-        cd ~/classes/comp122
+        cd ~/Desktop/classes/comp122
         git clone https://github.com:COMP122/comp122-s22.git class-material
         ```
      1. Clone a copy of the mars-mips repository:
         ```
-        cd ~/classes/comp122
+        cd ~/Desktop/classes/comp122
         git clone https://github.com:COMP122/mars-mips.git mars-mips
         ```
      1. Reposition files to be better organized:
         ```
-        cd ~/classes/comp122
+        cd ~/Desktop/classes/comp122
+        ln -s class-material/administrative/README.md README.md
         ln -s class-material/administrative/syllabus.md syllabus.md
         mkdir deliverables ; cd deliverables
         ln -s ../class-material/administrative/assignments.md assignments.md
         ```
-     1. Consider installing docker:
-        - https://www.docker.com
+     1. Update you current working directory
+        ```
+        cd \~/Desktop/classes/comp122
+        ```
+  1. Consider installing docker:
+     - https://www.docker.com
 

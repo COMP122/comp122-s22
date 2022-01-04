@@ -1,6 +1,6 @@
 # Syllabus: Computer Architecture and Assembly Language and Lab
 * Semester: Spring 2022
-* Professor: (Dr. Steven Fitgerald)[mailto:steve@my.csun.edu]
+* Professor: [Dr. Steven Fitzgerald](mailto:steve@my.csun.edu)
   * https://www.csun.edu/~steve
   * https://github.com/smf_steve
 

@@ -8,9 +8,9 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 1. [Models of Comp/Comm](#models) (Section 1)
 1. [Formats and Encodings](#formats) (Section 2)
 1. [Digital Logic](#digital) (Section 3)
-1. [MIPS Assemble](#mips) (Section 4)
+1. [MIPS Assembly](#mips) (Section 4)
 
-## Quizzes and Exams (Section N) {#quizzes}
+<h2 id="quizzes">Quizzes and Exams (Section N)</h2>
 1. Quiz 1: Models of Communication and Computation
    - Status: Unassigned
    - Invitation URL:
@@ -48,7 +48,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 40-exam-mips
 
 ---
-## General Assignments (Section 0) {#general}
+<h2 id="general">General Assignments (Section 0)</h2>
 1. Getting Started
    - Status: Assigned, not a graded assignment
    - ~Invitation URL~: https://github.com/COMP122/comp122-s22
@@ -89,7 +89,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 04-hello
 ---
 
-### Models of Communication and Communication (Section 1) {#models}
+### Models of Comp/Comm (Section 1) {#models}
 1. Name
    - Status:  
    - Invitation URL: 

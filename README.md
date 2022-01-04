@@ -61,12 +61,12 @@ This README.md file provides you with an overview of this structure, as well as,
      1. Clone a copy of this repository:
         ```
         cd ~/Desktop/classes/comp122
-        git clone https://github.com:COMP122/comp122-s22.git class-material
+        git clone https://github.com/COMP122/comp122-s22.git class-material
         ```
      1. Clone a copy of the mars-mips repository:
         ```
         cd ~/Desktop/classes/comp122
-        git clone https://github.com:COMP122/mars-mips.git mars-mips
+        git clone https://github.com/COMP122/mars-mips.git mars-mips
         ```
      1. Reposition files to be better organized:
         ```

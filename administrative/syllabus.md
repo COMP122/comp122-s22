@@ -12,7 +12,7 @@
 * Auxillary Documents (on drive.my.csun.edu): https://drive.google.com/drive/u/1/folders/1WpDQTpX-rFnPNkcynDI2-7faFX0qOzjH
 * Office Hours: 		Tuesday @ 1:00-1:45 & Thursday @ 11:00-11:45
 
-### Class Information: 
+## Class Information: 
 #### COMP122/L (07121/07122)
 * Meeting Times: Monday & Wednesday @ 9:00 AM - 9:25 AM & 9:30 AM - 10:45 AM
 * Meeting Location: JD2216 (http://csun.zoom.us/my/smf.steve)
@@ -33,7 +33,6 @@
 * Meeting Location: http://csun.zoom.us/my/smf.steve
 * Final Exam: None
 
----
 ## [Class Schedule](https://github.com/COMP122/comp122-s22/raw/main/administrative/schedule.pdf) (with tentative dates of quizzes/exams):
   1. Models for Communication and Computation		(Quiz #1: 2/11)
   1. Data Formats and Encodings for Computing   	(Exam #2: 3/9 & 3/10)

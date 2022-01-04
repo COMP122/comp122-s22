@@ -3,12 +3,12 @@
 This file contains the list of deliverables for COMP 122.  Such deliverables include general tasks, assignments, quizzes and exams.
 
 ### Menu
-  1.[Quizzes and Exams](#quizzes) (Section N)
-  1.[General Assignments](#general) (Section 0)
-  1.[Models of Comp/Comm](#models) (Section 1)
-  1.[Formats and Encodings](#formats) (Section 2)
-  1.[Digital Logic](#digital) (Section 3)
-  1.[MIPS Assemble](#mips) (Section 4)
+1. [Quizzes and Exams](#quizzes) (Section N)
+1. [General Assignments](#general) (Section 0)
+1. [Models of Comp/Comm](#models) (Section 1)
+1. [Formats and Encodings](#formats) (Section 2)
+1. [Digital Logic](#digital) (Section 3)
+1. [MIPS Assemble](#mips) (Section 4)
 
 ## Quizzes and Exams (Section N) {#quizzes}
 1. Quiz 1: Models of Communication and Computation
@@ -36,7 +36,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
    - Additional Information:
       - Preparation URL: https://docs.google.com/document/d/1PTIhbbzIw1GCx5UfnuWFCF2Xpcynx2HdP8D8y98CxFY/edit?usp=sharing
       - Repo: Comp122/quiz-digital
-      - Prefix: 20-digital
+      - Prefix: 30-digital
 
 1. Exam #4: MIPS Assembly Language
    - Status: Unassigned
@@ -85,83 +85,70 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
    - Status:  
    - Invitation URL: 
    - Due: ASAP, starting on Aug 30th 
-      - Repo: COMP122/mips-helloworld
+      - Repo: COMP122/mips-hello-world
       - Prefix: 04-hello
 ---
 
 ### Models of Communication and Communication (Section 1) {#models}
-1. No assignments
-   - Repo: COMP122/
-   - Prefix: 1x-
+1. Name
+   - Status:  
+   - Invitation URL: 
+   - Due: 
+      - Repo: COMP122/
+      - Prefix: 11-hello
+
+1. Name
+   - Status:  
+   - Invitation URL: 
+   - Due: ASAP, starting on Aug 30th 
+      - Repo: 
+      - Prefix: 12-hello
 
 ### Format and Encoding (Section 2) {#format}
-1. Encoding Practice I  (Graded)
-   - A practice assignment related to ASCII, UTF-8, and Unary numbers, and some mathematical review problems. 
-   - Invite: https://classroom.github.com/a/rTiXoH6x
-   - Repo: COMP122/
-   - Prefix: 21-encoding1
-   - Due: Sep 30, 2021, 23:59 PDT
+1. Name
+   - Status:  
+   - Invitation URL: 
+   - Due: 
+      - Repo: COMP122/
+      - Prefix: 21-hello
 
-1. Encoding Practice II (Graded)
-   - A practice assignment to decode ASCII, UTF-8, Octal, Hex, etc.
-   - Invite: https://classroom.github.com/a/uiVS5NbV
-   - Due: Oct 2, 2021, 23:59 PDT
-   - Extended: Oct 5, 2021, 23:59 PT
-   - Repo: COMP122/
-   - Prefix: 22-encoding2
-
-1. MIPS Encoding (Graded)
-   - A practice assignment to encode MIPS instructions focusing on the R formation
-   - Invite: https://classroom.github.com/a/vPrZtogl
-   - Due: Oct 5, 2021, 23:59 PT
-   - Repo: COMP122/
-   - Prefix: 23-mips
-
-1. Binary Numbers Conversions and Floating Point Representation (Graded)
-   - A practice assignment to encode binary numbers and floating point values
-   - Invite: https://classroom.github.com/a/jQbUC3bE
-   - Repo: COMP122/final
-   - Prefix: 24-conversions-floating
-   - Due: Oct 16, 2021, 23:59 PT
-
-1. Binary Numbers with Complements (Graded)
-   - A practice assignment to encode signed binary number and various operations
-   - Invite: https://classroom.github.com/a/eK0AIExd
-   - Due: Oct 19, 2021, 23:59 PT
-   - Repo: COMP122/final
-   - Prefix: 25-binary-complements
-
+1. Name
+   - Status:  
+   - Invitation URL: 
+   - Due: ASAP, starting on Aug 30th 
+      - Repo: 
+      - Prefix: 22-hello
+  
 ---
 ### Digitial Logic (Section 3) {#digital}
-1. No explicit assignments
-   - Repo: COMP122/
-   - Prefix: 31-
+1. Name
+   - Status:  
+   - Invitation URL: 
+   - Due: 
+      - Repo: COMP122/
+      - Prefix: 31-hello
+
+1. Name
+   - Status:  
+   - Invitation URL: 
+   - Due: ASAP, starting on Aug 30th 
+      - Repo: 
+      - Prefix: 32-hello
 
 ---
 ### MIPS Encoding (Section 4) {#mips}
 
-1. Bitwise Operations (To Be Graded)
-   - a practice assignment to get ready for a MIPs programming assingment
-   - Invite: https://classroom.github.com/a/_LyELg-o
-   - Due: Dec 1, 2021, 23:59 PT
-   - Repo: COMP122/
-   - Prefix: 41-bitwise-operations
-
-1. IPv Dotted Decimal Conversion (To be Assigned)
-   - MIPs assembly to convert between two different encodings for an IPv4 address
-   - Invite:
+1. Name
+   - Status:  
+   - Invitation URL: 
    - Due: 
-   - Repo: COMP122/
+      - Repo: COMP122/
+      - Prefix: 41-hello
 
-
-2. base64 Encoding (To be Assigned)
-   - MIPS assembly to transform a binary sequence into base64
-   - Invite: 
-   - Due: 
-   - Repo: COMP122/
-   - Prefix: 42-base64
-
-
-
-
-
+1. Name
+   - Status:  
+   - Invitation URL: 
+   - Due: ASAP, starting on Aug 30th 
+      - Repo: 
+      - Prefix: 42-hello
+  

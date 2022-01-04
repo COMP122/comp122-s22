@@ -7,7 +7,7 @@ In addition to the class-material repository, you will also need to clone a numb
 
 This README.md file provides you with an overview of this structure, as well as, a set of tasks to perform to get ready for this semester.  Additionally information is located within the README.md file within the adminstrative folder.
 
-## Contents of this repository
+## Contents of prepared directory structure
   1. README.md and other standard repository files
   1. Administrative Documents
      * Class Syllabus
@@ -17,6 +17,7 @@ This README.md file provides you with an overview of this structure, as well as,
      * Lecture Slides
      * Supporting Files
   1. A Deliverable directory for all of your assignments, quizzes, and exams.
+  1. A directory for the MARS program and supplementatry files.
 
 
 ## Key Information:

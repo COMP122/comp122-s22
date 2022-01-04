@@ -5,7 +5,7 @@ This repository provides you with material associated with COMP122.  During the 
 
 In addition to the class-material repository, you will also need to clone a number of other repositories.  Such repositories are associated with the MARS (MIPS Assembler and Runtime Simulator), as well as a repository for each of your deliverables (i.e., assignments).  All of these contents are placed within a specific file hierarchy for better organization. 
 
-This README.md file provides you with an overview of this structure, as well as, a set of tasks to perform to get ready for this semester.  Additionally information is located within the README.md file within the adminstrative folder.
+This README.md file provides you with an overview of this structure, as well as, a set of tasks to perform to get ready for this semester.  Additionally information is located within the README.md file within the administrative folder.
 
 ## Contents of prepared directory structure
   1. README.md and other standard repository files
@@ -17,7 +17,7 @@ This README.md file provides you with an overview of this structure, as well as,
      * Lecture Slides
      * Supporting Files
   1. A Deliverable directory for all of your assignments, quizzes, and exams.
-  1. A directory for the MARS program and supplementatry files.
+  1. A directory for the MARS program and supplementary files.
 
 
 ## Key Information:
@@ -54,8 +54,7 @@ This README.md file provides you with an overview of this structure, as well as,
      - Respond to the 'Hello Class' via the 'reply to thread' option (do NOT "Also send to #fitzgerald-f22").
  
   1. Setup your local comp122 environment: <br/>
-  Note that ``setup.bash`` can be used to automate the following steps. The file is locatined within the administrative folder: ``setup.bash``
-     1. Create the canonical folder for the class: \~/Desktop/classes/comp122 
+      1. Create the canonical folder for the class: \~/Desktop/classes/comp122 
         ```
         mkdir -p ~/Desktop/classes/comp122
         ```
@@ -81,6 +80,8 @@ This README.md file provides you with an overview of this structure, as well as,
         ```
         cd \~/Desktop/classes/comp122
         ```
+  Note that ``setup.bash`` can be used to automate the following steps. The file is located within the administrative folder: ``setup.bash``
+  
   1. Consider installing docker:
      - https://www.docker.com
 

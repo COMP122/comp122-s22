@@ -89,7 +89,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 04-hello
 ---
 
-### Models of Comp/Comm (Section 1) {#models}
+<h3 id="models">Models of Computation and Communication (Section 1)</h3>
 1. Name
    - Status:  
    - Invitation URL: 
@@ -104,7 +104,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Repo: 
       - Prefix: 12-hello
 
-### Format and Encoding (Section 2) {#format}
+<h3 id="format">Format and Encoding (Section 2)</h3>
 1. Name
    - Status:  
    - Invitation URL: 
@@ -120,7 +120,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 22-hello
   
 ---
-### Digitial Logic (Section 3) {#digital}
+<h3 id="digital">Digital Logic (Section 3)</h3>
 1. Name
    - Status:  
    - Invitation URL: 
@@ -136,7 +136,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 32-hello
 
 ---
-### MIPS Encoding (Section 4) {#mips}
+<h3 id="mips">MIPS Encoding (Section 4)</h3>
 
 1. Name
    - Status:  

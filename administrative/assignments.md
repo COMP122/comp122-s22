@@ -11,6 +11,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 1. [MIPS Assembly](#mips) (Section 4)
 
 <h2 id="quizzes">Quizzes and Exams (Section N)</h2>
+
 1. Quiz 1: Models of Communication and Computation
    - Status: Unassigned
    - Invitation URL:
@@ -49,52 +50,53 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 
 ---
 <h2 id="general">General Assignments (Section 0)</h2>
+
 1. Getting Started
    - Status: Assigned, not a graded assignment
-   - ~Invitation URL~: https://github.com/COMP122/comp122-s22
-   - Due: ASAP, starting on Aug 30th 
+   - Invitation URL: https://github.com/COMP122/comp122-s22
+   - Due: ASAP (01/24/2022 23:59)
    - Additional Information:
-      - Repo: COMP122/comp122-s22
+      - Repo: git@github.com:COMP122/comp122-s22.git
   
-
 1. My First Assignment
-   - Status: Unassigned
-   - Invitation URL:
-   - Due: ASAP, starting on Aug 30th 
-   - Additional Information:
-      - Repo: COMP122/first-assignment
+   - Status: Assigned
+   - Invitation URL: https://classroom.github.com/a/pveCiD9J
+   - Due: ASAP (01/27/2022 23:59)
+   - Additional Information: 
+      - Repo: git@github.com:COMP122/first-assignment.git
       - Prefix: 01-first-assignment
 
 1. Mathematical Review
    - Status: Assigned (Credit/No Credit, no grade report))
-   - Invitation URL: 
-   - Due: ASAP, starting on February 30th 
+   - Invitation URL: https://classroom.github.com/a/KrY3sWER
+   - Due: ASAP (01/27/2022 23:59)
    - Additional Information:
-      - Repo: COMP122/math-review
+      - Repo: git@github.com:COMP122/math-review.git
       - Prefix: 02-math-review
 
 1. Checksum
    - Status: Assigned 
    - Invitation URL:
-   - Due: February  4, 2021, 23:59 PDT
+   - Due: 2/01/2022 23:59
    - Additional Information
-      - Repo: COMP122/checksum
+      - Repo: git@github.com:COMP122/checksum.git
       - Prefix: 03-checksum
 
 1. MIPS: Hello World!
    - Status:  
    - Invitation URL: 
-   - Due: ASAP, starting on Aug 30th 
+   - Due: 2/01/2022 23:59 
       - Repo: COMP122/mips-hello-world
       - Prefix: 04-hello
 ---
 
 <h3 id="models">Models of Computation and Communication (Section 1)</h3>
+
 1. Name
    - Status:  
    - Invitation URL: 
    - Due: 
-      - Repo: COMP122/
+      - Repo: git@github.com/COMP122/
       - Prefix: 11-hello
 
 1. Name
@@ -105,6 +107,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 12-hello
 
 <h3 id="format">Format and Encoding (Section 2)</h3>
+
 1. Name
    - Status:  
    - Invitation URL: 
@@ -121,6 +124,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
   
 ---
 <h3 id="digital">Digital Logic (Section 3)</h3>
+
 1. Name
    - Status:  
    - Invitation URL: 

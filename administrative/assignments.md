@@ -75,7 +75,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 02-math-review
 
 1. Checksum
-   - Status: Assigned 
+   - Status:  
    - Invitation URL:
    - Due: 2/01/2022 23:59
    - Additional Information
@@ -97,14 +97,14 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
    - Invitation URL: 
    - Due: 
       - Repo: git@github.com/COMP122/
-      - Prefix: 11-hello
+      - Prefix: 11-comp-models
 
 1. Name
    - Status:  
    - Invitation URL: 
-   - Due: ASAP, starting on Aug 30th 
+   - Due:  
       - Repo: 
-      - Prefix: 12-hello
+      - Prefix: 12-
 
 <h3 id="format">Format and Encoding (Section 2)</h3>
 
@@ -112,15 +112,9 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
    - Status:  
    - Invitation URL: 
    - Due: 
-      - Repo: COMP122/
-      - Prefix: 21-hello
-
-1. Name
-   - Status:  
-   - Invitation URL: 
-   - Due: ASAP, starting on Aug 30th 
       - Repo: 
-      - Prefix: 22-hello
+      - Prefix: 21-
+
   
 ---
 <h3 id="digital">Digital Logic (Section 3)</h3>
@@ -129,15 +123,15 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
    - Status:  
    - Invitation URL: 
    - Due: 
-      - Repo: COMP122/
-      - Prefix: 31-hello
+      - Repo: 
+      - Prefix: 31-
 
 1. Name
    - Status:  
    - Invitation URL: 
-   - Due: ASAP, starting on Aug 30th 
+   - Due: 
       - Repo: 
-      - Prefix: 32-hello
+      - Prefix: 32-
 
 ---
 <h3 id="mips">MIPS Encoding (Section 4)</h3>
@@ -146,13 +140,13 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
    - Status:  
    - Invitation URL: 
    - Due: 
-      - Repo: COMP122/
-      - Prefix: 41-hello
+      - Repo: 
+      - Prefix: 41-
 
 1. Name
    - Status:  
    - Invitation URL: 
-   - Due: ASAP, starting on Aug 30th 
+   - Due: 
       - Repo: 
-      - Prefix: 42-hello
+      - Prefix: 42-
   

@@ -40,7 +40,7 @@
   1. Assembly-Level Programming 	(Exam #4: 5/11 & 5/12)
 
 ## Course Material:
-  1.  This class requires you to have direct and continual access to a computer. In short, it is a de facto requirement to own your own laptop/desktop computer.
+  1.  This class requires you to have direct and continual access to a computer. In short, it is a de facto requirement to bring a computer to lecture and lab.
   1. You should be familiar with the Linux CLI (command line interface)
   1. This class requires you to use numerous tools and online resources.
 

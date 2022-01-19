@@ -34,10 +34,10 @@
 * Final Exam: None
 
 ## [Class Schedule](https://github.com/COMP122/comp122-s22/raw/main/administrative/schedule.pdf) (with tentative dates of quizzes/exams):
-  1. Models for Communication and Computation		(Quiz #1: 2/11)
-  1. Data Formats and Encodings for Computing   	(Exam #2: 3/9 & 3/10)
+  1. Models for Communication and Computation	(Quiz #1: 2/11)
+  1. Data Formats and Encodings for Computing (Exam #2: 3/9 & 3/10)
   1. Digital Logic: Combinational and Sequential Circuits	(Quiz #3: 4/1)
-  1. Assembly-Level Programming 	(Exam #4: 5/11 & 5/12)
+  1. Assembly-Level Programming (Exam #4: 5/11 & 5/12)
 
 ## Course Material:
   1.  This class requires you to have direct and continual access to a computer. In short, it is a de facto requirement to bring a computer to lecture and lab.
@@ -109,6 +109,10 @@ The table below provides the objective measures used to calculate a student's fi
 
 						
 Regardless of the structure used to assign a quantitative number to each student, it is the Professor's goal to assign a final quantitative number that is closely aligned with the student's qualitative understanding of the course content.  Your active participation in this class is central to demonstrating course knowledge.
+
+## Recording of Class/Lecture Presentations
+A student may freely record either class or lecture presentations. Such recordings, however, are for the individual use of the student or students currently enrolled in COMP122/L.  As such students may share their recordings with other students in the class, who have the same restrictions, but they may not otherwise post or disseminate said recordings.
+
 
 ##	Course Policies
 I encourage everyone to collaborate, to work in teams, and to discuss course material with your colleagues. All student submissions, however, must be the work of the student who has submitted the material. Students should therefore be familiar with the University's rules on academic dishonesty, which can be found in the Undergraduate/Graduate Catalog. In particular, plagiarism will not be tolerated! Any student caught plagiarizing any work may automatically receive a grade of F for the course. If you are unsure as to what constitutes plagiarism, it is your responsibility to check with the instructor. Other forms of dishonesty will result in similar actions.

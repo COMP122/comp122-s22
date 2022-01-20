@@ -2,7 +2,8 @@
 
 ## Announcements
 
-Welcome to COMP122
+* Welcome to COMP122
+* First Three Weeks
 
 ## Today's Agenda 
 https://docs.google.com/presentation/d/1-Os_Mk9JoE9qQ2mYQbgEjA9WOYgkXF-GvIaFRSG160E/edit#slide=id.g10e35413a08_0_0
@@ -34,3 +35,10 @@ https://docs.google.com/presentation/d/1-Os_Mk9JoE9qQ2mYQbgEjA9WOYgkXF-GvIaFRSG1
 ---
 ## Resources
 ## Notes
+cc -E  hello_world.c > hello_world.i
+hello_world.s <- cc -S hello_world.c
+hello_world.o <- cc -c hello_world.o
+hello_world   <- cc -o hello_world hello_world.c
+
+cc -O # optimizes the assembly level code
+cc -g # addes extra code for debugging

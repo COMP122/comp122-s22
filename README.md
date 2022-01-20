@@ -31,9 +31,9 @@ This README.md file provides you with an overview of this structure, as well as,
     - COMP122 Home: https://github.com/COMP122
     - class-material: https://github.com:COMP122/comp122-s22.git
     - mars-mips: https://github.com/COMP122/mars-mips.git
-  * Canonical Class Directory: \~/classes/comp122
-  * Syllabus: \~/classes/comp122/syllabus.md
-  * Assignments: \~/classes/comp122/deliverables/assignments.md
+  * Canonical Class Directory: \~/Desktop/classes/comp122
+  * Syllabus: \~/Desktop/classes/comp122/syllabus.md
+  * Assignments: \~/Desktop/classes/comp122/deliverables/assignments.md
 
 ## Tasks (to be complete prior to the first day of class)
   1. Establish Accounts:

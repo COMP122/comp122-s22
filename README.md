@@ -16,7 +16,7 @@ This README.md file provides you with an overview of this structure, as well as,
      * Lecture Notes
      * Lecture Slides
      * Supporting Files
-  1. A Deliverable directory for all of your assignments, quizzes, and exams.
+  1. A deliverable directory for all of your assignments, quizzes, and exams.
   1. A directory for the MARS program and supplementary files.
 
 
@@ -29,7 +29,7 @@ This README.md file provides you with an overview of this structure, as well as,
     - Java: preinstalled or https://www.java.com
   * Repositories
     - COMP122 Home: https://github.com/COMP122
-    - class-material: https://github.com:COMP122/comp122-s22.git
+    - class-material: https://github.com/COMP122/comp122-s22.git
     - mars-mips: https://github.com/COMP122/mars-mips.git
   * Canonical Class Directory: \~/Desktop/classes/comp122
   * Syllabus: \~/Desktop/classes/comp122/syllabus.md

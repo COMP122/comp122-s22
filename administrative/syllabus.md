@@ -53,7 +53,7 @@ Introduction to computer architecture, assembly language programming, system sof
   * To illustrate the practical use of various numbering systems and data representations
   * To introduce programming approaches and techniques at the hardware/software interface
   * To expose the students to digital logic and computer engineering
-  * To foreshadow salient material from Computational Theory (COMP310), Operating Systems (COMP322) and Complilers (COMP330) as it relates to computer architecture
+  * To foreshadow salient material from Computational Theory (COMP310), Operating Systems (COMP322) and Complilers (COMP430) as it relates to computer architecture
   * To utilize various tools used within the COMP & CIT industry 
 
 ## Things to Note:

@@ -16,7 +16,7 @@ This README.md file provides you with an overview of this structure, as well as,
      * Lecture Notes
      * Lecture Slides
      * Supporting Files
-  1. A Deliverable directory for all of your assignments, quizzes, and exams.
+  1. A deliverable directory for all of your assignments, quizzes, and exams.
   1. A directory for the MARS program and supplementary files.
 
 

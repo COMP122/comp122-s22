@@ -55,9 +55,9 @@ This README.md file provides you with an overview of this structure, as well as,
  
   1. Setup your local comp122 environment: <br/>
       1. Create the canonical folder for the class: \~/Desktop/classes/comp122 
-        ```
-        mkdir -p ~/Desktop/classes/comp122
-        ```
+         ```
+         mkdir -p ~/Desktop/classes/comp122
+         ```
      1. Clone a copy of this repository:
         ```
         cd ~/Desktop/classes/comp122

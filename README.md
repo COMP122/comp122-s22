@@ -1,4 +1,4 @@
- # COMP122 Overview
+# COMP122 Overview
 #### Version: Spring 2022
 
 This repository provides you with material associated with COMP122.  During the semester, the professor will be adding additional information to this repository. As such, you will need to regularly perform a PULL operation to obtain the most up-to-date information.
@@ -78,7 +78,7 @@ This README.md file provides you with an overview of this structure, as well as,
         ```
      1. Update you current working directory
         ```
-        cd \~/Desktop/classes/comp122
+        cd ~/Desktop/classes/comp122
         ```
       Note that ``setup.bash`` can be used to automate the following steps. The file is located within the administrative folder: ``setup.bash``
 

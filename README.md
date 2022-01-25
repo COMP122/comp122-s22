@@ -78,7 +78,7 @@ This README.md file provides you with an overview of this structure, as well as,
         ```
      1. Update you current working directory
         ```
-        cd \~/Desktop/classes/comp122
+        cd ~/Desktop/classes/comp122
         ```
       Note that ``setup.bash`` can be used to automate the following steps. The file is located within the administrative folder: ``setup.bash``
 

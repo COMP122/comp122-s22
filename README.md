@@ -1,4 +1,4 @@
- # COMP122 Overview
+# COMP122 Overview
 #### Version: Spring 2022
 
 This repository provides you with material associated with COMP122.  During the semester, the professor will be adding additional information to this repository. As such, you will need to regularly perform a PULL operation to obtain the most up-to-date information.

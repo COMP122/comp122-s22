@@ -2,7 +2,7 @@
 * Semester: Spring 2022
 * Professor: [Dr. Steven Fitzgerald](mailto:steve@my.csun.edu)
   * https://www.csun.edu/~steve
-  * https://github.com/smf_steve
+  * https://github.com/smf-steve
 
 ## General Information
 * Zoom Link:		https://csun.zoom.us/my/smf.steve

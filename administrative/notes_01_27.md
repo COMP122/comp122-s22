@@ -16,7 +16,7 @@
   1. Initial Git Setup and version control: 
      - all the class-material
      - git hub accounts and ssh keys 
-  1. mechanics of updating and publishing our homework
+  1. mechanics of updating and pub lishing our homework
   1. Introduction to the CLI
   1. Syllabus review
   1. Mars-mips

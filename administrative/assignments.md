@@ -75,9 +75,9 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 02-math-review
 
 1. Checksum
-   - Status:  
-   - Invitation URL:
-   - Due: 2/01/2022 23:59
+   - Status: Assigned 
+   - Invitation URL: https://classroom.github.com/a/vNpZGPYF
+   - Due: 02/06/2022 23:59 -0800
    - Additional Information
       - Repo: git@github.com:COMP122/checksum.git
       - Prefix: 03-checksum

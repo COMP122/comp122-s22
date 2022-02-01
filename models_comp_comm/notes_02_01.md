@@ -17,14 +17,30 @@
    1. Morning Class:
       - If I already cloned a repo, do I have to delete and redo to put it somewhere else?
          * No!, use the the following command to move it: mv <dir> <new_dir>
-      - 
+      - How to do a git 'pull'
  
 ## Review from Last-time
+   1. Talked about how the file system was mapped
+      - It's a tree,
+      - top of the tree is called the root '/'
+      - notation to my home directory: ~
+      - hidden files: files that begin with a '.', e.g. .git, .ssh, 
+      - to see hidden files:  ls -a
+      - special files:  
+          - '.'  : current directory
+          - '..' : parent directory
+   1. Relative and Absolute Naming, with the path when needed
+   1. Internal of git
+      - local repo stored in a .git directory
+
  
 ---
 # Today's Material
 
+   
 
 ---
 ## Resources
 ## Notes
+   1. Morning Session needs to pickup from Universal Computers
+   

@@ -1,4 +1,4 @@
-# COMP122 Lecture Notes: January 24, 2021
+# COMP122 Lecture Notes: Feburary 24, 2022
 
 ## Announcements
 

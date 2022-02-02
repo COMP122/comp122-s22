@@ -15,7 +15,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 1. Quiz 1: Models of Communication and Computation
    - Status: Unassigned
    - Invitation URL:
-   - Due: Feb 2, 2022, 23:59 PDT
+   - Due: 
    - Additional Information:
       - Preparation URL: https://docs.google.com/document/d/1PTIhbbzIw1GCx5UfnuWFCF2Xpcynx2HdP8D8y98CxFY/edit?usp=sharing
       - Repo: Comp122/quiz-models
@@ -75,9 +75,9 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 02-math-review
 
 1. Checksum
-   - Status: Assigned 
+   - Status: Assigned  
    - Invitation URL: https://classroom.github.com/a/vNpZGPYF
-   - Due: 02/06/2022 23:59 -0800
+   - Due: 2/06/2022 23:59
    - Additional Information
       - Repo: git@github.com:COMP122/checksum.git
       - Prefix: 03-checksum

@@ -1,17 +1,21 @@
 # COMP122 Lecture Notes: Feburary 3, 2022
 
 ## Announcements
+   1. Attendance
+
 
 ## Today's Agenda
-   1. Addtional CLI commands
+   1. Additional CLI commands
    1. Snippets and not images
+   1. Instruction Set Architectures
 
 ## Questions
 ## Review from Last-time
 
 ---
 # Today's Material
-
+  1. Morning Session needs to pickup from Universal Computers
+  1. ISA: slides
 
 ---
 ## Resources

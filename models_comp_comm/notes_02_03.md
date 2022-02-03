@@ -42,6 +42,13 @@
 
 ---
 ## Resources
+   1. Endiance
+      - 02/10/22  <- three pieces "02" "10" "22"
+      - above is a date:
+        * Feb 10, 2022
+        * Oct 2, 2022 
+
+        
 ## Notes
 
     $ javac checksum

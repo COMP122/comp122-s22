@@ -2,8 +2,14 @@
 
 ## Announcements
   1. Attendence
-  1. Quiz:  Friday at 6:00 - Saturday 23:59 ?
-     - Monday Morning Class : No Issues with the proposed time
+  1. Quiz:  Friday at 6:00pm - Saturday 23:59 ?
+     - Scheduling Issue:
+       - Monday Morning Class : No Issues with the proposed time
+       - Monday Afternoon Class: 
+           * Some work issues on Friday/Saturday just need a good chunk for scheduling
+       - Tuesday Morning Class:  No Issues with the proposed time
+           * Some work issues on Friday/Saturday just need a good chunk for scheduling  (a solid 4 hour chuck of time would work)
+
      - Quiz preparation: https://drive.google.com/drive/folders/1qbKMchzyVaKVnVg9ZhSlWMuC35u-1EsW
   	 - online
   	 - .md format
@@ -13,23 +19,24 @@
   1. Assignment on Checksum
 
   1. Assumptions:
-     -  42
-     -  0x2A
-     -  052
-     - ``*``
-     - 0010 1010
-     - 2#00101010, 16#2A
-
+     -  42    // x = 42
+     -  0x2A  // x = 0x2A
+     -  052 
+     -  ``*``
+     -  2#00101010
+     1. Addition in base 8, when there is an overflow
+        - // 7 + 1 = 010  
 
 ## Today's Agenda
   1. Step through of the checksum lab
-	 1. Standard process for all labs
-	 1. Demostrating the CLI commands
+	  1. Standard process for all labs
+	  1. Demostrating the CLI commands
   1. Pickup where we left off last time
   1. The Process
 
 ## Questions
   1. Morning class: no questions.
+  1. Afternoon class: 
 
 ## Review from Last-time
   1. 
@@ -40,4 +47,13 @@
 
 ---
 ## Resources
+  1. https://docs.google.com/document/d/149tg69QPMFdpYMUDkf6QGds-3uoQSLmU7rD5Rz-7jhc/edit
+  1. https://git-scm.com/docs
+
 ## Notes
+
+
+No News is Bad News!
+   Bad News is Good News!
+       Good News is No News!
+

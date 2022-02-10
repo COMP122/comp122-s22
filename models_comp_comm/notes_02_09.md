@@ -14,6 +14,8 @@
 ## Questions
    1. Wed/Morning: no question
    1. Wed/Afternoon: no question
+   1. Thurs/Morning: no questions
+   1. Thurs/Afternoon: no questions
 
 ## Review from Last-time
 

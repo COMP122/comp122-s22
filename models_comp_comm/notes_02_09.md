@@ -2,7 +2,7 @@
 
 ## Announcements
    1. Attendance
-   1. Class on Monday
+   1. Monday/Wednesday Classes: Report to class on campus
    1. Quiz
 
 
@@ -10,9 +10,11 @@
    1. Process
    1. Based upon time, a review
 
+
 ## Questions
    1. Wed/Morning: no question
-   
+   1. Wed/Afternoon: no question
+
 ## Review from Last-time
 
 ---

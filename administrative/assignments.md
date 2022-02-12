@@ -13,9 +13,9 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 <h2 id="quizzes">Quizzes and Exams (Section N)</h2>
 
 1. Quiz 1: Models of Communication and Computation
-   - Status: Unassigned
-   - Invitation URL:
-   - Due: 
+   - Status: Assigned
+   - Invitation URL: https://classroom.github.com/a/fcGfI_uZ
+   - Due: February 12, 2022 Saturday @6:00pm 
    - Additional Information:
       - Preparation URL: https://docs.google.com/document/d/1PTIhbbzIw1GCx5UfnuWFCF2Xpcynx2HdP8D8y98CxFY/edit?usp=sharing
       - Repo: Comp122/quiz-models
@@ -59,7 +59,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Repo: git@github.com:COMP122/comp122-s22.git
   
 1. My First Assignment
-   - Status: Assigned
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/pveCiD9J
    - Due: ASAP (01/27/2022 23:59)
    - Additional Information: 

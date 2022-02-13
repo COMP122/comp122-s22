@@ -67,7 +67,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 01-first-assignment
 
 1. Mathematical Review
-   - Status: Assigned (Credit/No Credit, no grade report))
+   - Status: Assigned (Credit/No Credit)
    - Invitation URL: https://classroom.github.com/a/KrY3sWER
    - Due: ASAP (01/29/2022 23:59)
    - Additional Information:

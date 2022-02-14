@@ -22,7 +22,7 @@
        - Base64
        - ASCII
        - MIPS Instructions
-     * BCD Addition (for shadow)
+     * BCD Addition (foreshadow)
      * ASCII in Detail
      * Variable Length Encodings:  UTF-8
 
@@ -30,10 +30,15 @@
 
 ## Review from Last-time
 
+
 ---
 # Today's Material
   1. See slides
 
+
+# Leftoff:
+   1. Monday/Morning:  Slides 1-12
+   1. Monday/Afternoon: 
 
 ---
 ## Resources

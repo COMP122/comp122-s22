@@ -1,4 +1,4 @@
-# COMP122 Lecture Notes: Feburary 24, 2022
+# COMP122 Lecture Notes: Feburary 14, 2022
 
 ## Announcements
    1. Welcome Back to Campus

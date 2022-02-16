@@ -92,28 +92,17 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 
 <h3 id="models">Models of Computation and Communication (Section 1)</h3>
 
-1. Name
-   - Status:  
-   - Invitation URL: 
-   - Due: 
-      - Repo: git@github.com/COMP122/
-      - Prefix: 11-comp-models
+* No assignments in this section
 
-1. Name
-   - Status:  
-   - Invitation URL: 
-   - Due:  
-      - Repo: 
-      - Prefix: 12-
 
 <h3 id="format">Format and Encoding (Section 2)</h3>
 
-1. Name
-   - Status:  
-   - Invitation URL: 
-   - Due: 
-      - Repo: 
-      - Prefix: 21-
+1. Name: table-encodings
+   - Status: Assigned
+   - Invitation URL: https://classroom.github.com/a/wgw9NnJ_
+   - Due: Feb 20, 2022 @ 11:59PM
+      - Repo: COMP122/table-encodings
+      - Prefix: 21-table-encodings
 
   
 ---

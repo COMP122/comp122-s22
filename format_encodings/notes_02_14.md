@@ -1,15 +1,16 @@
-# COMP122 Lecture Notes: Feburary 14, 2022
+# COMP122 Lecture Notes: Feburary 14, 15, 16, & 17 2022
 
 ## Announcements
-   1. Welcome Back to Campus
+   1. Monday: Welcome Back to Campus
    1. If you happen to be sick
    1. Grading:
       - Assigments 1-3 have been graded
         ```
-        cd comp122/deliverables/assignment_n
+        cd comp122/deliverables/NN_assignment
         git pull
         cat grade.report
         ```
+      - Merge issues
 
 ## Today's Agenda
    1. Start of a new section: Formats and Encodings
@@ -17,7 +18,7 @@
      * Binary Strings
      * Functions/Mapping
      * Fixed Length Encodings
-       - Octal), 
+       - Octal, 
        - Hexadecimal, BCD
        - Base64
        - ASCII
@@ -38,7 +39,7 @@
 
 # Leftoff:
    1. Monday/Morning:  Slides 1-12
-   1. Monday/Afternoon: 
+   1. Monday/Afternoon: Slides 1-12
 
 ---
 ## Resources

@@ -1,8 +1,8 @@
-# Decoding UTF-8 Characters
+# UTF-8 Decoding of Unicode
 
-## Algorithm: UTF-8 Encoding to UTF-8 Index
+## Algorithm: UTF-8 Encoding to Unicode
 
-*  Prerequisite: Convert your UTF-8 character/s into a binary string
+*  Prerequisite: Convert your UTF-8 string into a binary string.
 1. Chunk the string into bytes
 2. Based upon the first-byte's prefix, determine the total number of bytes ('b') used to encode the current UTF-8 character.
 
@@ -29,7 +29,7 @@
 ### 'WHITE FOUR POINTED STAR'
 ### https://www.fileformat.info/info/unicode/char/2727/index.htm
 
-* Prerequisite: Convert your UTF-8 character/s into a binary string.
+* Prerequisite: Convert your UTF-8 string into a binary string.
   - 16# e29ca7
   - 2#  1110 0010 1001 1100 1010 0111
 
@@ -72,7 +72,7 @@
 
 ## Example 2: Invalid Binary String
 
-* Prerequisite: Convert your UTF-8 character/s into a binary string
+* Prerequisite: Convert your UTF-8 string into a binary string.
   - 16# e2dca7
   - 2#  1110 0010 1101 1100 1010 0111
 

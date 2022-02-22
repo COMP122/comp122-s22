@@ -1,4 +1,4 @@
-# COMP122 Lecture Notes: Feburary 24, 2022
+# COMP122 Lecture Notes: Feburary 21 & 22, 2022
 
 ## Announcements
    1. COMP 122/L Virtual Group Discussion Sessions with Sarah
@@ -8,6 +8,8 @@
    1. Introduction to Numbering Systems
 
 ## Questions
+   1. ASCII decoding-- big versus little endian
+   1. quick review of octal/hex -> binary encoding
 
 
 ## Review from Last-time

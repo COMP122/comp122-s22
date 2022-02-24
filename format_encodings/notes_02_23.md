@@ -5,12 +5,12 @@
 
 ## Today's Agenda
    1. Base10 Mathematical Review
-   1. Base2: Encodings and Mathematical Operations (start?)
+   1. Base2: Encodings and Mathematical Operations
 
 ## Questions
 
 ## Review from Last-time
-   1. UTF=8
+   1. UTF-8
    1. Numbering Systems
 
 

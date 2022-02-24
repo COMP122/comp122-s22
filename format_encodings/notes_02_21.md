@@ -1,4 +1,4 @@
-# COMP122 Lecture Notes: Feburary 21 & 22, 2022
+# COMP122 Lecture Notes: February 21 & 22, 2022
 
 ## Announcements
    1. COMP 122/L Virtual Group Discussion Sessions with Sarah
@@ -17,6 +17,61 @@
 
 ---
 # Today's Material
+
+"Hello \u2727 World!\n\0"
+
+C, C++:
+	String:  array of ASCII
+
+	char: 1 byte or 8-bits
+
+Java:
+	String:  array of Unicode  // object
+
+	char: 2 byte or 16-bits
+
+
+U+7979:
+   * Binary: 0111 1001 0111 1001
+   1. MSB:    ^ 15th digit
+   2. Consult: 
+   | Condition | l = length | b = bytes |
+   |-----------|-----------:|----------:|
+   | p <= 16   |       16   |      3    |	
+
+   3. Pad/Truncate:
+   	  - 0111 1001 0111 1001
+
+   4. Chunk: 0111 100101 111001
+      - 4: 0111
+      - 6: 100101
+      - 6: 111001
+   5. Pack:
+      - | 1110 xxxx   | 10 xxxxxx | 10 xxxxxx |
+      - | 1110 0111   | 10 100101 | 10 111001 |
+   * Decode: 1110 0111 1010 0101 1011 1001
+      - 0x E7A5B9
+
+UTF-8:
+   - 11010101 10111010 01010111 11101101 10110001 10110001
+   1. chunk: done see above
+   2/3. 11010101 10111010 |  01010111  | 11101101 10110001 10110001
+   4. Validate
+      - '110'10101 '10'111010  -- check
+      - '0'1010111
+      - '1110'1101 '10'110001 '10'110001 -- check, check
+   5. unpack
+      - | 110 xxxxx   | 10 xxxxxx |
+        - 10101 111010
+      - | 0 xxxxxxx   | 
+        - 1010111
+      - | 1110 xxxx   | 10 xxxxxx | 10 xxxxxx |
+        - 1101 110001 110001
+   *  convert to hex
+      - 0101 0111 1010      : 0x057A  'ARMENIAN SMALL LETTER PEH'
+      - 0101 0111           : 0x0057  'W'
+      - 1101 1100 0111 0001 : 0xDC71  invalid
+
 
 1. UTF-8 Review:
 
@@ -90,11 +145,23 @@ Number Calculation:
   - Base2
     - 1001001
 
+   - Base10
+    - 4005
+  - Base2
+    - 100110
+
+
 BCD:
   - what is:  1010
+  - 10 -- 0001 0000
 
 
+What's this number:
 
+   - 2# 101   -> 5
+   - 2# 101.1 -> 5 1/2 == 5.5
+   - 2# 101.01 -> 5 1/4 == 5.25
+   - 2# 101.11 ->  5.75
 
 
 

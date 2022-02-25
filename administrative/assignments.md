@@ -104,6 +104,21 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Repo: COMP122/table-encodings
       - Prefix: 21-table-encodings
 
+1. Name: utf8-encoding
+   - Status: Assigned
+   - Invitation URL: https://classroom.github.com/a/aL9AaoEM
+   - Due: March 6, 2022 @ 11:59PM
+      - Repo: COMP122/utf8-encoding
+      - Prefix: 22-utf-encoding
+
+
+1. Name: binary-addition
+   - Status: Assigned
+   - Invitation URL: https://classroom.github.com/a/gFGehKAD
+   - Due: March 6, 2022 @ 11:59PM
+      - Repo: COMP122/binary-addition
+      - Prefix: 23-binary-addition
+
   
 ---
 <h3 id="digital">Digital Logic (Section 3)</h3>

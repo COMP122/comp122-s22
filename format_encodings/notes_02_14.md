@@ -62,7 +62,7 @@
   - 0x456 : base 16 : 16#456
 
 
-1. MIPS encoding exampl #1:
+1. MIPS encoding example #1:
 
   - sw $t0, 0($s0)       #  s0[0] = t0
     - Pattern: sw rt, imm(rs)
@@ -99,14 +99,48 @@
    - 16#     0    0    1    f    2    1    8    2
    - via Mars: 0x001f2182 (check)
 
-1. MIPS Decode
+
+1. MIPS encoding example #3:
+   - andi  $v0, $gp, 0x27     #  v0 = gp & 0x27
+     - Pattern: andi  rt, rs, imm
+       - rt == $v0 (0 0010)
+       - rs == $gp (1 1100)
+       - imm == 0x27 (0010 0111)
+     - I c
+       - op == c (00 1100)
+
+    | op      | rs      | rt      | imm                 |
+    |---------|---------|---------|---------------------|
+    | 00 1100 | 1 1100  | 0 0010  | 0000 0000 0010 0111 |
+
+    - 2# 0011 0011 1000 0010 0000 0000 0010 0111 
+    - 16#   3    3    8    2    0    0    2    7
+    - via Mars: 0x33820027
+
+
+
+1. MIPS Decode: example #1
    - via Mars: 0x001f2182
    - 2#   0000 0000 0001 1111 0010 0001 1000 0010 
    - package: 000000   00000111110010000110000010
-     - op = 000000
+     - op == 000000
    - re-package -- R type
      - 000000 00000 11111 00100 00110 000010
      - func == srl
+
+1. MIPS Decode: example #2
+   - via Mars: 0xae080000
+   - 2# 1010 1110 0000 1000 0000 0000 0000 0000 
+   - package: 10 1011    10 0000 1000 0000 0000 0000 0000
+     - op == 101 011 (0x2b)
+     - instruction:  sw rt, imm(rs)
+   - re-package -- I type
+     - 101011    10000 01000   0000000000000000
+     - rs = 10000 ($s0)
+     - rt = 01000 ($t0)
+     - imm = 0000000000000000  (0)
+   - Instruction:
+     - sw $t0, 0($s0)     ; S0[0] = t0 
 
 
 

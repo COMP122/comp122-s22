@@ -13,7 +13,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 <h2 id="quizzes">Quizzes and Exams (Section N)</h2>
 
 1. Quiz 1: Models of Communication and Computation
-   - Status: Assigned
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/fcGfI_uZ
    - Due: February 12, 2022 Saturday @6:00pm 
    - Additional Information:
@@ -67,7 +67,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 01-first-assignment
 
 1. Mathematical Review
-   - Status: Assigned (Credit/No Credit)
+   - Status: Graded (Credit/No Credit)
    - Invitation URL: https://classroom.github.com/a/KrY3sWER
    - Due: ASAP (01/29/2022 23:59)
    - Additional Information:
@@ -75,19 +75,13 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 02-math-review
 
 1. Checksum
-   - Status: Assigned  
+   - Status: Graded  
    - Invitation URL: https://classroom.github.com/a/vNpZGPYF
    - Due: 2/06/2022 23:59
    - Additional Information
       - Repo: git@github.com:COMP122/checksum.git
       - Prefix: 03-checksum
 
-1. MIPS: Hello World!
-   - Status:  
-   - Invitation URL: 
-   - Due: 2/01/2022 23:59 
-      - Repo: COMP122/mips-hello-world
-      - Prefix: 04-hello
 ---
 
 <h3 id="models">Models of Computation and Communication (Section 1)</h3>
@@ -98,7 +92,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 <h3 id="format">Format and Encoding (Section 2)</h3>
 
 1. Name: table-encodings
-   - Status: Assigned
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/wgw9NnJ_
    - Due: Feb 20, 2022 @ 11:59PM
       - Repo: COMP122/table-encodings
@@ -152,6 +146,13 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 
 ---
 <h3 id="mips">MIPS Encoding (Section 4)</h3>
+
+1. MIPS: Hello World!
+   - Status:  
+   - Invitation URL: 
+   - Due: 2/01/2022 23:59 
+      - Repo: COMP122/mips-hello-world
+      - Prefix: 41-hello
 
 1. Name
    - Status:  

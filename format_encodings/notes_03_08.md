@@ -1,10 +1,13 @@
-# COMP122 Lecture Notes: Feburary 24, 2022
+# COMP122 Lecture Notes: March 7 & 8, 2022
 
 ## Announcements
+   1. Test on Wednesday
 
 ## Today's Agenda
+   1. Review Session
+   1. Got Questions?
+
 ## Questions
-## Review from Last-time
 
 ---
 # Today's Material

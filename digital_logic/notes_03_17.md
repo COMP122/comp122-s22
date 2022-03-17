@@ -2,9 +2,9 @@
 
 ## Announcements
    1. Last day before break
-   1. We meet on on March 29th
+   1. We meet on March 29th
    1. We don't meet on March 31
-   1. Planned quiz weened of April 1
+   1. Planned quiz weekend of April 1
 
 ## Today's Agenda
    1. More Combinational Circuits
@@ -29,11 +29,15 @@
 -------
  x xx30
 ```
+
+
   1. Java Code & MIPS
      -  a0 = s0 & s1;   and $a0, $s0, $s1
      -  a0 = s0 | s1;   or $a0, $s0, $s1
      -  a0 = s0 ^ s1;   nor $a0, $s0, $s1
      -  a0 = ~ s0 ;     nor $a0, $s0, $zero     
+
+
   1. Post and pre-inc:  ++x, x++  //   y = x++ + 3
      = X = A + b + 1 
      = X = A + b;

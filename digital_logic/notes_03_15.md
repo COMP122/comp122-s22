@@ -12,7 +12,7 @@
       	- Ceaser Chavez (Thursday): no class
 
 ## Today's Agenda
-   1. Slides: Introduction to Digital
+   1. Slides: Introduction to Digital Logic
 
 ## Questions
    1. No questions

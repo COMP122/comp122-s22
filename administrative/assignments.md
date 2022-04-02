@@ -22,8 +22,8 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 10-models
 
 1. Exam 2: Formats and Encodings
-   - Status: Unassigned
-   - Invitation URL: 
+   - Status: Graded
+   - Invitation URL: https://classroom.github.com/a/xayQNq6x
    - Due: March 9 or March 10, 2022 -- at the end of lecture/lab
    - Additional Information:
       - Preparation URL: https://docs.google.com/document/d/12qS7QlLcXeRKoCny27CbByX1ECFnHYndGTBFTQ-IB6c/edit?usp=sharing
@@ -86,7 +86,13 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 
 <h3 id="models">Models of Computation and Communication (Section 1)</h3>
 
-* No assignments in this section
+
+1. Name: digital-logical
+   - Status: assigned
+   - Invitation URL: https://classroom.github.com/a/yPFghmut
+   - Due: April 7, 2022 @ 11:59PM
+      - Repo: COMP122/digital-logic
+      - Prefix: 31-digital-logic
 
 
 <h3 id="format">Format and Encoding (Section 2)</h3>
@@ -106,21 +112,21 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 22-utf-encoding
 
 1. Name: binary-addition
-   - Status: Assigned
+   - Status: graded
    - Invitation URL: https://classroom.github.com/a/gFGehKAD
    - Due: March 6, 2022 @ 11:59PM
       - Repo: COMP122/binary-addition
       - Prefix: 23-binary-addition
 
 1. Name: floating-point-encoding
-   - Status: Assigned
+   - Status: graded
    - Invitation URL: https://classroom.github.com/a/b461-4Gm
    - Due: March 8, 2022 @ 11:59PM
       - Repo: COMP122/floating-point-encoding
       - Prefix: 24-floating-point-encoding
 
 1. Name: bitwise-operations
-   - Status: Assigned
+   - Status: Graded: Credit/No Credit
    - Invitation URL: https://classroom.github.com/a/0V_7zN6H
    - Due: March 8, 2022 @ 11:59PM
       - Repo: COMP122/bitwise-operations

@@ -31,13 +31,13 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 20-formats
 
 1. Quiz 3: Digital Logic
-   - Status: Unassigned
-   - Invitation URL:
+   - Status: Assigned
+   - Invitation URL: https://classroom.github.com/a/Qtt-oM3r
    - Due: April 1, 2022 23:59 PDT
    - Additional Information:
       - Preparation URL: https://docs.google.com/document/d/1PTIhbbzIw1GCx5UfnuWFCF2Xpcynx2HdP8D8y98CxFY/edit?usp=sharing
-      - Repo: Comp122/quiz-digital
-      - Prefix: 30-digital
+      - Repo: Comp122/quiz-digital-logic
+      - Prefix: 30-quiz-digital-logic
 
 1. Exam #4: MIPS Assembly Language
    - Status: Unassigned

@@ -33,7 +33,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 1. Quiz 3: Digital Logic
    - Status: Assigned
    - Invitation URL: https://classroom.github.com/a/Qtt-oM3r
-   - Due: April 1, 2022 23:59 PDT
+   - Due: April 8, 2022 18:00 PDT
    - Additional Information:
       - Preparation URL: https://docs.google.com/document/d/1PTIhbbzIw1GCx5UfnuWFCF2Xpcynx2HdP8D8y98CxFY/edit?usp=sharing
       - Repo: Comp122/quiz-digital-logic

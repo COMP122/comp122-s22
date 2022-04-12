@@ -136,37 +136,30 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 ---
 <h3 id="digital">Digital Logic (Section 3)</h3>
 
-1. Name
-   - Status:  
-   - Invitation URL: 
-   - Due: 
-      - Repo: 
-      - Prefix: 31-
+1. Name: digital-logic
+   - Status: Closed
+   - Invitation URL: https://classroom.github.com/a/yPFghmut
+   - Due: April 7, 2022 @ 11:59PM
+      - Repo: COMP122/digital-logic
+      - Prefix: 31-digital-logic
 
-1. Name
-   - Status:  
-   - Invitation URL: 
-   - Due: 
-      - Repo: 
-      - Prefix: 32-
 
 ---
 <h3 id="mips">MIPS Encoding (Section 4)</h3>
 
-1. MIPS: Hello World!
-   - Status:  
-   - Invitation URL: 
-   - Due: 2/01/2022 23:59 
-      - Repo: COMP122/mips-hello-world
-      - Prefix: 41-hello
 
-1. Name
-   - Status:  
-   - Invitation URL: 
+1. Name: Pythagorean
+   - Status:  Assigned
+   - Invitation URL: https://classroom.github.com/a/KhjPwrMi
    - Due: 
-      - Repo: 
-      - Prefix: 41-
-
+     * April 14 @ Midnight: Is Right Triangle
+     * Due: April 17 @ Midnight: Type of Triangle
+     * Due: April 19 @ Midnight: Approximate the Hypotenuse
+     * Due: April 21 @ Midnight: Evaluate the Hypotenuse
+     * Due: April 24 @ Midnight: Series of Triangles
+       - Repo: COMP122/pythagorean.mips
+       - Prefix: 41-pythagorean
+      
 1. Name
    - Status:  
    - Invitation URL: 

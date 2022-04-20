@@ -10,7 +10,7 @@
    1. Coding Example
 
 ## Questions
-   1. 
+   1. git tag       
 
 ## Checksum.c --> MIPS conversion
 
@@ -30,7 +30,7 @@ fprintf(stdout, "Stored Checksum: %d, Computed Checksum: %d\n", checksum, comple
 out_str0:   .ascii   "Stored Checksum: "
 out_str1:   .ascii   ", Computed Checksum: "
 out_str2:   .asciiz  "\n"
-err_str:    .asciiz  "Error Detecterd!\n"
+err_str:    .asciiz  "Error Detected!\n"
 ```
 
 1. Register allocation:
@@ -63,7 +63,7 @@ They become so widely adopted/accept -- not they are part of the _de facto_ stan
     1. print: output format conversion (printf, fprintf, sprintf)
       - snprintf(buffer, sizeof(buffer), format_string, ... );
       - snprintf(&A, 20, "%s %d, %d = %s\n", month, day, year, weekday );
-      - returns the lenght of A
+      - returns the length of A
       - strings:
         - %s: strings (%s)
         - %c: unsigned char (%c)
@@ -85,7 +85,7 @@ They become so widely adopted/accept -- not they are part of the _de facto_ stan
     1. long strtol(string, endpoint, base): string to long
     1. float strtof(string, endpoint, base): string to float 
     1. int atoi(string): ascii to integer
-    1. double atof(string): aciit to float
+    1. double atof(string): ascii to float
 
 1. Write the following subroutines
 

@@ -1,3 +1,5 @@
+## This file contains a number of macros provided on the slides for this section.
+
 
 
 
@@ -11,14 +13,14 @@
   la $a0, str               #   p = str;
   li $v0, 0,                #   count = 0;
 test:                       #   while (*p != '\0') {
-  lb $at, 0($a0)            #     // (*p)
+  lb $at, 0($a)             #     // (*p)
   beq $at, $zero, done      #     // branch: ! (*p != '\0')
   addi $a0, $a0, 4          #    p++
   addi $v0, $v0, 1          #    count++
-  b test                    #   }
-done:                       #   return count
+done:                       #   }
+                            #   return count
                             # }
-
+.end_macro
 
 # Usage: push rt 
 # Semantics: pushes a value ontop of the stack
@@ -54,7 +56,7 @@ done:                       #   return count
 
 # Usage: load10_w  label, rs
 # Semantics:  
-#    loads lable[rs] .. label[rs+9 into the "t" registers
+#    loads lable[rs] .. label[rs+9] into the "t" registers
 # Side_effects:
 #    the value of the rs is incremented by 10
 .macro load10_w(%label, %rs)

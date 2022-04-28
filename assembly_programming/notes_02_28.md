@@ -13,7 +13,7 @@
       - Version 3:
           - modify "push code" to "write to memory" (updated 2-3 lines of code)
           - make a new type of syscall, to allocate memory (add 4 lines of code) [see below]
-          - move print loop out of your subroutine, and replace with syscall to print_string  (replace 1\~lines of code, add 1 macro)
+          - move print loop out of your subroutine, and replace with syscall to print_string  (replace \~1 lines of code, add 1 macro)
       - Version 4:
           - change the register that you loaded the value '10' into to $a4  (change 2 or 3 lines of code)
           - update the int -> ascii code to what is provided to bases > 10  (~ 3-4 lines of code)
@@ -37,10 +37,10 @@
    1. Survey of Assignment Status
    1. Provide more time at the beginning of the class to work on the assignment.
    1. Based upon Survey and General status then ..... (?)
-   
+
 
 ## Questions:
-   1. none
+   1. integer --> ascii 
 
 
 ## Notes:

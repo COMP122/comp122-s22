@@ -36,7 +36,8 @@
 ## Today's Agenda
    1. Survey of Assignment Status
    1. Provide more time at the beginning of the class to work on the assignment.
-   1. 
+   1. Based upon Survey and General status then ..... (?)
+   
 
 ## Questions:
    1. none

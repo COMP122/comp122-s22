@@ -31,7 +31,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 20-formats
 
 1. Quiz 3: Digital Logic
-   - Status: Assigned
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/Qtt-oM3r
    - Due: April 8, 2022 18:00 PDT
    - Additional Information:
@@ -40,8 +40,8 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 30-quiz-digital-logic
 
 1. Exam #4: MIPS Assembly Language
-   - Status: Unassigned
-   - Invitation URL: 
+   - Status: Graded
+   - Invitation URL: https://classroom.github.com/a/zs6H614g
    - Due: May 11 or May 12, 2022 -- at the end of lecture/lab
    - Additional Information:
       - Preparation URL: https://docs.google.com/document/d/1NeJnrhCNHQl3k_VGCQGziQSaS9vg-v2dlTQWyxnsql8/edit?usp=sharing
@@ -86,14 +86,7 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 
 <h3 id="models">Models of Computation and Communication (Section 1)</h3>
 
-
-1. Name: digital-logical
-   - Status: assigned
-   - Invitation URL: https://classroom.github.com/a/yPFghmut
-   - Due: April 7, 2022 @ 11:59PM
-      - Repo: COMP122/digital-logic
-      - Prefix: 31-digital-logic
-
+1. No explicit assignments
 
 <h3 id="format">Format and Encoding (Section 2)</h3>
 
@@ -105,21 +98,21 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
       - Prefix: 21-table-encodings
 
 1. Name: utf8-encoding
-   - Status: Assigned
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/aL9AaoEM
    - Due: March 6, 2022 @ 11:59PM
       - Repo: COMP122/utf8-encoding
       - Prefix: 22-utf-encoding
 
 1. Name: binary-addition
-   - Status: graded
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/gFGehKAD
    - Due: March 6, 2022 @ 11:59PM
       - Repo: COMP122/binary-addition
       - Prefix: 23-binary-addition
 
 1. Name: floating-point-encoding
-   - Status: graded
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/b461-4Gm
    - Due: March 8, 2022 @ 11:59PM
       - Repo: COMP122/floating-point-encoding
@@ -137,19 +130,18 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 <h3 id="digital">Digital Logic (Section 3)</h3>
 
 1. Name: digital-logic
-   - Status: Closed
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/yPFghmut
    - Due: April 7, 2022 @ 11:59PM
       - Repo: COMP122/digital-logic
       - Prefix: 31-digital-logic
-
 
 ---
 <h3 id="mips">MIPS Encoding (Section 4)</h3>
 
 
 1. Name: Pythagorean
-   - Status:  Assigned
+   - Status:  Closed
    - Invitation URL: https://classroom.github.com/a/KhjPwrMi
    - Due: 
      * April 14 @ Midnight: Is Right Triangle
@@ -159,11 +151,12 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
      * Due: April 24 @ Midnight: Series of Triangles
        - Repo: COMP122/pythagorean.mips
        - Prefix: 41-pythagorean
-      
-1. Name
-   - Status:  
-   - Invitation URL: 
-   - Due: 
-      - Repo: 
-      - Prefix: 42-
-  
+
+1. Name: Conversion
+   - Status:  Closed
+   - Invitation URL: https://classroom.github.com/a/KhjPwrMi
+   - Specification: https://github.com/COMP122/conversions.mips
+   - Due: May 8th @ Midnight
+       - Repo: COMP122/conversions.mips
+       - Prefix: 42-conversions
+    

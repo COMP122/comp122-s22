@@ -141,22 +141,27 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
 
 
 1. Name: Pythagorean
-   - Status:  Closed
+   - Status: Graded
    - Invitation URL: https://classroom.github.com/a/KhjPwrMi
    - Due: 
-     * April 14 @ Midnight: Is Right Triangle
+     * Due: April 14 @ Midnight: Is Right Triangle
      * Due: April 17 @ Midnight: Type of Triangle
      * Due: April 19 @ Midnight: Approximate the Hypotenuse
      * Due: April 21 @ Midnight: Evaluate the Hypotenuse
      * Due: April 24 @ Midnight: Series of Triangles
        - Repo: COMP122/pythagorean.mips
        - Prefix: 41-pythagorean
+     - Cloned on April 15, as announced (except for specific requests)
+       - only those individuals have the priviledge to make a pull request
 
 1. Name: Conversion
-   - Status:  Closed
+   - Status: Closed
    - Invitation URL: https://classroom.github.com/a/KhjPwrMi
    - Specification: https://github.com/COMP122/conversions.mips
    - Due: May 8th @ Midnight
        - Repo: COMP122/conversions.mips
        - Prefix: 42-conversions
+   - Cloned:  May 8th @ Midnite
+       - only those individuals have the priviledge to make a pull request
+       
     

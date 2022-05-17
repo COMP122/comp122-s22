@@ -163,5 +163,6 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
        - Prefix: 42-conversions
    - Cloned:  May 8th @ Midnite
        - only those individuals have the priviledge to make a pull request
+       - subject to late penalties
        
     

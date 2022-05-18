@@ -155,7 +155,9 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
        - only those individuals have the priviledge to make a pull request
 
 1. Name: Conversion
-   - Status: Closed
+   - Status: Grade
+     - One Lab grade assigned to just version_1
+     - One extra lab grade for those that did all versions correctly!
    - Invitation URL: https://classroom.github.com/a/KhjPwrMi
    - Specification: https://github.com/COMP122/conversions.mips
    - Due: May 8th @ Midnight
@@ -164,5 +166,5 @@ This file contains the list of deliverables for COMP 122.  Such deliverables inc
    - Cloned:  May 8th @ Midnite
        - only those individuals have the priviledge to make a pull request
        - subject to late penalties
-       
+   
     

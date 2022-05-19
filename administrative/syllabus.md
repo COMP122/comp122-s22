@@ -103,8 +103,8 @@ The table below provides the objective measures used to calculate a student's fi
 | Type | Weight |
 |------|-------:|
 | Participation, Exercises, Assignments, and Activities | 15% |
-| Laboratory Assignments	| 35% |
-| Quizzes (2)	| 10% |
+| Laboratory Assignments	| 40% |
+| Quizzes (2)	| 15% |
 | Exams (2)	| 30% |
 
 						
